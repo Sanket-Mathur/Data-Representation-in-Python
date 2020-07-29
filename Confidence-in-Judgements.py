@@ -1,4 +1,3 @@
-# Use the following data for this assignment:
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import matplotlib.colors as col
