@@ -2,3 +2,6 @@
 
 ### Temperature Trend
 ![Temperature Trends](/Display/Temperature-Trend.png)
+
+### Confidence in Judgements
+![Confidence in Judgements](/Display/Confidence-in-Judgements.png)
