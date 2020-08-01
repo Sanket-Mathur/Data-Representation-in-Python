@@ -5,3 +5,6 @@
 
 ### Confidence in Judgements
 ![Confidence in Judgements](/Display/Confidence-in-Judgements.png)
+
+### Literacy Rate India
+![Literacy Rate India](/Display/LiteracyRateIndia.png)
