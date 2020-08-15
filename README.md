@@ -8,3 +8,6 @@
 
 ### Literacy Rate India
 ![Literacy Rate India](/Display/LiteracyRateIndia.png)
+
+### B/W Image
+![B/W Image](/Display/BW-Image.png)
